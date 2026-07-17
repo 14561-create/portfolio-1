@@ -9,6 +9,11 @@
 <title>Portfolio</title>
 
 <link rel="stylesheet" href="css/style.css">
+header {
+    background-color: #81c784; /* สีเขียวอ่อน */
+    color: white;
+    text-align: center;
+    padding: 20px;
 
 </head>
 
@@ -31,11 +36,7 @@ Portfolio
 <li><a href="education.html">ประวัติการศึกษา</a></li>
 
 <li><a href="contact.html">ติดต่อ</a></li>
-header {
-    background-color: #81c784; /* สีเขียวอ่อน */
-    color: white;
-    text-align: center;
-    padding: 20px;
+
 
 </ul>
 
